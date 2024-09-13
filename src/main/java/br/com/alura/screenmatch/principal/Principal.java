@@ -66,6 +66,7 @@ public class Principal {
                 .limit(10)
                 .peek(e -> System.out.println("Limite " + e))
                 .map(e -> e.titulo().toUpperCase())
+
                 .peek(e -> System.out.println("Mapeamento " + e))
                 .forEach(System.out::println);
     }
