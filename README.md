@@ -26,5 +26,10 @@ Um projeto Java orientado a objetos que consome dados de uma API de séries e ep
 
 ---
 
-## 🗂️ Estrutura de diretórios
+## Exemplo de saída no console
+🔹 Série: Breaking Bad
+📅 Temporada: 1
+🎬 Episódio: Pilot
+⭐ Avaliação: 9.5
+
 
